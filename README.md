@@ -1,5 +1,5 @@
 #  Python  Snippets
-I was missing some important and necassary code snippets of python in sublime text, so i decided to make my own. and i think  beyond me, it can help other people who use sublime text as their primary code editor.
+I was missing some necessary code snippets of python in Sublime Text, so i decided to make my own. and i think  it can also help other people who use Sublime Text as their primary code editor.
 
 ## Key Features:
 - Conditional statements
