@@ -1,0 +1,11 @@
+<snippet>
+	<description>Async</description>
+	<content><![CDATA[
+async def ${1:func}(${2:param1}, ${3:param2}):
+    ${4:#await some_coroutine()}
+    ${5:#code}
+
+]]></content>
+	<tabTrigger>async</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>

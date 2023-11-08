@@ -1,0 +1,10 @@
+<snippet>
+	<description>Regular Function</description>
+	<content><![CDATA[
+${0:def} ${1:function_name}(${2:*args, **kwargs}) :
+	${0:#code}
+
+]]></content>
+	<tabTrigger>funct</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
