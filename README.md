@@ -27,3 +27,6 @@ git clone https://github.com/Hunter87ff/py-sublime-snippet
 
 **Step 2:**<br>
 Copy the folder and past it in this directory `sublime-text/packages/User/snippets/`
+
+# Documentation
+For more info you can vidit the docs here : [Documentation](https://github.com/Hunter87ff/py-sublime-snippet/blob/main/reference.md)
