@@ -1,0 +1,8 @@
+<snippet>
+	<description>List.append</description>
+	<content><![CDATA[
+list.append(${1:element})
+]]></content>
+	<tabTrigger>list.append</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>

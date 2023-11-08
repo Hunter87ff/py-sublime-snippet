@@ -1,0 +1,13 @@
+<snippet>
+	<description>Try Except</description>
+	<content><![CDATA[
+try:
+	${1:#code}
+except ${2:Exception as e}:
+	${3:raise e}
+else:
+	${4:pass}
+]]></content>
+	<tabTrigger>try</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
