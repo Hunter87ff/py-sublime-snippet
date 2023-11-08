@@ -5,7 +5,8 @@ class ${1:ClassName}(object) :
     def __init__(self, arg):
         super(${1:ClassName}, self).__init__()
         self.arg = arg
-	${0:/* code */}
+	def ${2:function}(${3:param}):
+		${4:#Code}
 ]]></content>
 	<tabTrigger>class</tabTrigger>
 	<scope>source.py, source.python</scope>
