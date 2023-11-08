@@ -3,8 +3,9 @@
 	<content><![CDATA[
 ${0:def} ${1:function_name}(${2:*args, **kwargs}) :
 	${0:#code}
+	return 0
 
 ]]></content>
-	<tabTrigger>funct</tabTrigger>
+	<tabTrigger>def</tabTrigger>
 	<scope>source.py, source.python</scope>
 </snippet>
