@@ -1,0 +1,11 @@
+<snippet>
+	<description>Class Method</description>
+	<content><![CDATA[
+	@classmethod
+    def ${1:argument}(cls):
+    	${0:#code}
+        return cls.arg
+]]></content>
+	<tabTrigger>@classmethod</tabTrigger>
+	<scope>source.py</scope>
+</snippet>
