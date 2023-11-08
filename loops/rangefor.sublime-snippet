@@ -1,9 +1,0 @@
-<snippet>
-	<description>Range-based For Loop</description>
-	<content><![CDATA[
-for i in range(${1:count}):
-	${0:#code}
-]]></content>
-	<tabTrigger>forrange</tabTrigger>
-	<scope>source.py</scope>
-</snippet>
