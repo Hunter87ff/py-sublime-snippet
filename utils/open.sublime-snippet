@@ -1,0 +1,11 @@
+<snippet>
+<description>Open</description>
+<content><![CDATA[
+${1:file} = open("${2:filename.txt}", "${3:r}")
+data = ${4:file}.${5:read()}
+${6:file}.close()
+${7:#do something}
+]]></content>
+<tabTrigger>open</tabTrigger>
+<scope>source.py, source.python</scope>
+</snippet>
