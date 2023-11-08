@@ -9,7 +9,7 @@ Although the snippets show up as having four spaces in the reference, in the act
 ## Table of Contents
 
 - [Loops](#loops)
-- [Utilities](#utils)
+- [Utilities](#utilities)
 - [Conditional Statements](#conditional)
 - [Preprocessor](#preprocessor)
 - [Classes](#classes)
