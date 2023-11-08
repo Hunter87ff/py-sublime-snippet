@@ -1,0 +1,8 @@
+<snippet>
+	<description>lambda min</description>
+	<content><![CDATA[
+min(${1:list_}, key=lambda s: ${2:x['rating']})
+]]></content>
+	<tabTrigger>lmin</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
