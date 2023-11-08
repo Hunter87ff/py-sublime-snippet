@@ -1,0 +1,10 @@
+<snippet>
+	<description>elif:</description>
+	<content><![CDATA[
+elif ${1:True}:
+	${0: #code }
+
+]]></content>
+	<tabTrigger>elif</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>

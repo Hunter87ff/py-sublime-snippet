@@ -1,0 +1,13 @@
+<snippet>
+	<description>if else</description>
+	<content><![CDATA[
+if ${1:True} :
+	${2:#code}
+
+else :
+	${0:#code}
+
+]]></content>
+	<tabTrigger>ifelse</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
