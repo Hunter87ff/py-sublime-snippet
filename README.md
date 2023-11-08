@@ -11,7 +11,6 @@ Although the snippets show up as having four spaces in the reference, in the act
 - [Loops](#loops)
 - [Utilities](#utilities)
 - [Conditional Statements](#conditional)
-- [Preprocessor](#preprocessor)
 - [Classes](#classes)
 - [Lambda](#lambda)
 - [Functions](#functions)
