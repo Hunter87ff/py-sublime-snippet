@@ -72,15 +72,6 @@ with open("file", "r") as f:
 ```
 
 
-**Trigger**: mitl
-
-A snippet that generates an MIT License with input choices for your name and year.
-
-**Trigger**: beginend_
-
-```py
-std::begin($1), std::end($1)
-```
 
 ## Conditional Statements
 
