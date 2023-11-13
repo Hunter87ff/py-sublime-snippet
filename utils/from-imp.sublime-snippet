@@ -1,7 +1,7 @@
 <snippet>
 	<description>from</description>
 	<content><![CDATA[
-from ${1:module} import ${2:class}
+from ${1:module} import ${2:Class}
 ]]></content>
 	<tabTrigger>from</tabTrigger>
 	<scope>source.py, source.python</scope>
