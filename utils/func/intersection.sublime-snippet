@@ -1,0 +1,11 @@
+<snippet>
+	<description>Intersection</description>
+	<content><![CDATA[
+def intersect(${1:arr1}, ${2:arr2}):
+  return [x for x in ${1:arr1} if x in ${2:arr2}]
+]]></content>
+	<tabTrigger>intersect</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
+
+

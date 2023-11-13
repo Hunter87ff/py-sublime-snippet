@@ -1,0 +1,8 @@
+<snippet>
+	<description>Pow</description>
+	<content><![CDATA[
+pow(${1:base}, ${2:exp})
+]]></content>
+	<tabTrigger>pow</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>

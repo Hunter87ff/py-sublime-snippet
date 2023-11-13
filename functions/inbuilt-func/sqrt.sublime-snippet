@@ -1,0 +1,8 @@
+<snippet>
+	<description>Sqrt</description>
+	<content><![CDATA[
+math.sqrt(${1:x})
+]]></content>
+	<tabTrigger>sqrt</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>

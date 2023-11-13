@@ -1,0 +1,10 @@
+<snippet>
+	<description>Bin</description>
+	<content><![CDATA[
+bin(${1:expression})$0
+]]></content>
+	<tabTrigger>bin</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
+
+

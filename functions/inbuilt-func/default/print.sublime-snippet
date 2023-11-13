@@ -1,0 +1,10 @@
+<snippet>
+	<description>Print</description>
+	<content><![CDATA[
+print(${1:value})
+]]></content>
+	<tabTrigger>print</tabTrigger>
+	<scope>source.py, source.python</scope>
+</snippet>
+
+
