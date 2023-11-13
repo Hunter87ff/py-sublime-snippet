@@ -11,7 +11,6 @@ Although the snippets show up as having four spaces in the reference, in the act
 - [Loops](#loops)
 - [Utilities](#utilities)
 - [Conditional Statements](#conditional)
-- [Preprocessor](#preprocessor)
 - [Classes](#classes)
 - [Lambda](#lambda)
 - [Functions](#functions)
@@ -149,13 +148,13 @@ class ClassName(object) :
 
 Snippets to insert Python3 lambdas of different flavours.
 
-**Trigger**: lmax(lambda usage in max func)
+**Trigger**: lmax
 ```py
 max(list_, key=lambda s: x['rating'])
 ```
 
 
-**Trigger**: lmin(lambda usage in min func)
+**Trigger**: lmin
 ```py
 min(list_, key=lambda s: x['rating'])
 ```
