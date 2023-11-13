@@ -15,7 +15,7 @@ Although the snippets show up as having four spaces in the reference, in the act
 - [Lambda](#lambda)
 - [Functions](#functions)
 
-## Loops <a href="#Loops">#</a>
+## Loops <a id="loops">#</a>
 
 A collection of loop auto completions.
 
@@ -42,7 +42,7 @@ for i in range(count):
 ```
 
 
-## Utilities <a href="#Utilities">#</a>
+## Utilities <a id="utilities">#</a>
 
 Utilities will be uploading day by day, not only basic python snippets but also for different libraries
 
@@ -77,7 +77,7 @@ with open("file", "r") as f:
 
 
 
-## Conditional Statements <a href="#Conditional Statements">#</a>
+## Conditional Statements <a id="conditional">#</a>
 
 **Trigger**: if
 
@@ -111,7 +111,7 @@ else :
 
 ```
 
-## Classes <a href="#Classes">#</a>
+## Classes <a id="classes">#</a>
 
 
 **Trigger**: class
@@ -144,7 +144,7 @@ class ClassName(object) :
         return args
 ```
 
-## Lambda <a href="#Lambda">#</a>
+## Lambda <a id="lambda">#</a>
 
 Snippets to insert Python3 lambdas of different flavours.
 
@@ -160,7 +160,7 @@ min(list_, key=lambda s: x['rating'])
 ```
 
 
-## Functions <a href="#Functions">#</a>
+## Functions <a id="functions">#</a>
 
 **Trigger**: def
 
