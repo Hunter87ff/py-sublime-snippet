@@ -75,8 +75,11 @@ with open("file", "r") as f:
     data = f.read()
 ```
 
+**Trigger**: from
 
-
+```py
+from module import Class
+```
 ## Conditional Statements <a id="conditional">#</a>
 
 **Trigger**: if
