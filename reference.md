@@ -16,7 +16,7 @@ Although the snippets show up as having four spaces in the reference, in the act
 - [Lambda](#lambda)
 - [Functions](#functions)
 
-## Loops
+## Loops <a href="#Loops">#</a>
 
 A collection of loop auto completions.
 
@@ -43,7 +43,7 @@ for i in range(count):
 ```
 
 
-## Utilities
+## Utilities <a href="#Utilities">#</a>
 
 Utilities will be uploading day by day, not only basic python snippets but also for different libraries
 
@@ -52,7 +52,12 @@ Utilities will be uploading day by day, not only basic python snippets but also 
 ```py
 list.append(element)
 ```
+**Trigger**: intersect
 
+```py
+def intersect(arr1, arr2):
+  return [x for x in arr1 if x in arr2]
+```
 **Trigger**: try
 
 ```py
@@ -73,7 +78,7 @@ with open("file", "r") as f:
 
 
 
-## Conditional Statements
+## Conditional Statements <a href="#Conditional Statements">#</a>
 
 **Trigger**: if
 
@@ -107,7 +112,7 @@ else :
 
 ```
 
-## Classes
+## Classes <a href="#Classes">#</a>
 
 
 **Trigger**: class
@@ -140,7 +145,7 @@ class ClassName(object) :
         return args
 ```
 
-## Lambda
+## Lambda <a href="#Lambda">#</a>
 
 Snippets to insert Python3 lambdas of different flavours.
 
@@ -156,7 +161,7 @@ min(list_, key=lambda s: x['rating'])
 ```
 
 
-## Functions
+## Functions <a href="#Functions">#</a>
 
 **Trigger**: def
 

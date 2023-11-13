@@ -1,8 +1,8 @@
 <snippet>
-	<description>List.append</description>
+	<description>append</description>
 	<content><![CDATA[
-list.append(${1:element})
+${1:list}.append(${2:element})
 ]]></content>
-	<tabTrigger>list.append</tabTrigger>
+	<tabTrigger>append</tabTrigger>
 	<scope>source.py, source.python</scope>
 </snippet>
