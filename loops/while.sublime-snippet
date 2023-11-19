@@ -1,10 +1,10 @@
 <snippet>
-	<description>While Loop</description>
+	<description>While</description>
 	<content><![CDATA[
 while ${1:True}:
 	${2:#do something}
 
 ]]></content>
 	<tabTrigger>while</tabTrigger>
-	<scope>source.py, source.python</scope>
+	<scope>source.python</scope>
 </snippet>
